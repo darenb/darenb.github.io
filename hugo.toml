@@ -1,0 +1,5 @@
+baseURL = 'https://darenb.github.io/'
+languageCode = 'en-us'
+title = "Daren's Blog"
+theme = 'ananke'
+
